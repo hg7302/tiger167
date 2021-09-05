@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Himanshu Gupta</h1>
+<h3 align="left">A passionate software engineer from India</h3>
 
-<!--
-**tiger167/tiger167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiger167&label=Profile%20views&color=0e75b6&style=flat" alt="tiger167" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning **Quantum Computing, Kotlin,Swift**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Golang,python, devops, unix, C++,C langugae**
+
+- 📫 How to reach me **guptahimanshu0302@gmail.com**
+
+- 👨‍💻 All of my projects are available at [tiger167](https://github.com/tiger167)
+
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/himanshugupta0302/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/himanshugupta0302/" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/himanshug12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshug12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/guptahimanshu201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="guptahimanshu201" height="30" width="40" /></a>
+<a href="https://leetcode.com/tiger167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tiger167" height="30" width="40" /></a>
+</p>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tiger167&show_icons=true" alt="tiger167" /></p>
